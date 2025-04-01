@@ -48,7 +48,7 @@ sudo apt update && sudo apt install -y inxi
 ```
 2. Install InSyst from the git repository:
 ```bash
-git clone https://github.com/alxpxx/insyst
+git clone https://github.com/alxpxx/insyst.git
 ```
 3. Navigate to the directory:
 ```bash
