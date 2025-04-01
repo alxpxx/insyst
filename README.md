@@ -40,7 +40,7 @@ Ensure you have the following installed on your Linux system:
 
 1. Install required system dependencies:
 ```bash
-bash setup.sh
+sudo apt update && sudo apt install -y inxi
 ```
 2. Install InSyst from the git repository:
 ```bash
