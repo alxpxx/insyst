@@ -8,7 +8,9 @@ Insyst is a lightweight command-line tool designed for Linux systems.
 It provides detailed system information across various categories, including hardware, network, performance and installed applications. 
 Users can navigate through the menu by selecting the corresponding number to access specific details.
 
-![terminal-app-menu](https://github.com/user-attachments/assets/02a37707-e088-4536-9b91-23526f852626)
+![menu](https://github.com/user-attachments/assets/861b0df7-4b22-4715-bc9e-fa7a4f81700a)
+
+![hw](https://github.com/user-attachments/assets/e2387956-4567-4d3b-b82f-b9dc07b2e59a)
 
 ## Features
 
