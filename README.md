@@ -48,6 +48,14 @@ sudo apt update && sudo apt install -y inxi
 ```bash
 git clone https://github.com/alxpxx/insyst
 ```
+3. Navigate to the directory:
+```bash
+cd insyst
+```
+3. Build the package:
+```bash
+pip install .
+```
 3. Run the script:	
 ```bash
 insyst
