@@ -44,7 +44,7 @@ sudo apt update && sudo apt install -y inxi
 ```
 2. Install InSyst from the git repository:
 ```bash
-pip install git+https://github.com/alxpxx/insyst.git
+git clone https://github.com/alxpxx/insyst
 ```
 3. Navigate to the directory:
 ```bash
@@ -52,7 +52,7 @@ cd insyst
 ```
 3. Run the script:	
 ```bash
-python insyst.py
+python insyst
 ```
 
 ## Usage
