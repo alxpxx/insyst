@@ -1,9 +1,14 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
 	name="insyst", 
 	version="0.1",
-	packages=['insyst'],
+	packages=find_packages(),
+	entry_points={
+		"console_scripts": [
+			"insyst=insyst.main:main"
+		]
+	},
 	install_requires=['iniconfig==2.1.0',
 		'packaging==24.2',
 		'pluggy==1.5.0',
