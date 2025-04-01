@@ -34,17 +34,21 @@ Ensure you have the following installed on your Linux system:
 
 - Python (version 3.6 or later)
 
-- Required dependencies (should install automatically)
+- Required dependencies
 
 ### Installation Steps
 
-1. Install from the git repository:
+1. Install required system dependencies:
+```bash
+bash setup.sh
+```
+2. Install InSyst from the git repository:
 ```bash
 pip install git+https://github.com/alxpxx/insyst.git
 ```
-2. Navigate to the directory:
+3. Navigate to the directory:
 ```bash
-cd Insyst
+cd insyst
 ```
 3. Run the script:	
 ```bash
