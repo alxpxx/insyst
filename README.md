@@ -58,7 +58,7 @@ cd insyst
 ```bash
 pip install .
 ```
-3. Run the script:	
+3. Run InSyst:	
 ```bash
 insyst
 ```
