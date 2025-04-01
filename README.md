@@ -94,4 +94,4 @@ For issues and suggestions, please open an issue in Github.
 
 ### Author
 
-Alxpx - alxpx@outlook.com
+Alxpx
