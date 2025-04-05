@@ -171,7 +171,7 @@ def performance(event):
     @display_info
     def performance():
         fig_func('Performance')
-        run_func(['ps','-eo','pid',',','cmd',',','%mem',',','%cpu','--sort=-%mem'])
+        run_func(['ps','-eo','pid,cmd,%mem,%cpu','--sort=-%mem'])
 
 @bindings.add('4')
 # [n]etwork information
