@@ -14,7 +14,7 @@ setup(
 		'pluggy==1.5.0',
 		'prompt_toolkit==3.0.50',
 		'pyfiglet==1.0.2',
-		'pytest==8.3.5',
+		'pytest==9.0.3',
 		'wcwidth==0.2.13'],
 	author="alxpx",
 	author_email="alxpx@outlook.com",
